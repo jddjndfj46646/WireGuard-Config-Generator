@@ -1,2 +1,2 @@
-python-environ==0.4.54
+django-environ>=0.10.0
 toml==0.10.2
